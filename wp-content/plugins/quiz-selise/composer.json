@@ -1,0 +1,20 @@
+{
+    "name": "tanjeeb/quiz-selise",
+    "autoload": {
+        "psr-4": {
+            "Tanjeeb\\QuizSelise\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tanjeeb ahsan",
+            "email": "tanjeeb@cybernetikz.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Admin\\": "./admin"
+        }
+    }
+}
